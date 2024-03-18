@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">weatherSecretary</string>
+    <string name="title_home">홈</string>
+    <string name="title_weather">날씨</string>
+    <string name="title_timetable">시간표</string>
+    <string name="title_calendar">일정</string>
+
+    <string name="todays">오늘의 날씨</string>
+    <string name="todayw1">기온</string>
+    <string name="todayw2">강수량</string>
+    <string name="todayw3">체감온도</string>
+    <string name="todayw4">미세먼지</string>
+    <string name="todayw5">자외선지수</string>
+
+    <string name="timew">시간별날씨</string>
+
+    <string name="thisweek">이번주 날씨</string>
+    <string name="sun">일요일</string>
+    <string name="mon">월요일</string>
+    <string name="tues">화요일</string>
+    <string name="weds">수요일</string>
+    <string name="thurs">목요일</string>
+    <string name="fri">금요일</string>
+    <string name="satur">토요일</string>
+    <string name="today">오늘</string>
+    <string name="yester">어제</string>
+
+
+    <string name="coordination">오늘의 추천 옷차림</string>
+    <string name="todaycalendar">오늘의 일정</string>
+</resources>

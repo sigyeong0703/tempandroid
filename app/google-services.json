@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "351291129608",
+    "project_id": "weathersecretary",
+    "storage_bucket": "weathersecretary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351291129608:android:105b9b727d3752c2df36bd",
+        "android_client_info": {
+          "package_name": "com.ilsa1000ri.weatherSecretary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdIpGsLWEHz9bK_QYmPqro_7Vu6nKVQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351291129608:android:453b235c3c8a8382df36bd",
+        "android_client_info": {
+          "package_name": "com.ilsa1000ri.weathersecretary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdIpGsLWEHz9bK_QYmPqro_7Vu6nKVQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351291129608:android:622cfd3c33416ad0df36bd",
+        "android_client_info": {
+          "package_name": "com.lsg.weathersecretary_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdIpGsLWEHz9bK_QYmPqro_7Vu6nKVQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
